@@ -1,5 +1,5 @@
 .logo{
-    background-color: #fff;
+    background-color: rgb(219, 217, 217);
     size: 75px;
     margin-left: 35px;
     margin-top: 30px;
@@ -10,5 +10,15 @@ video {
     margin: 8px 5px 8px 5px;
 }
 .house {
-
+    margin-left: auto;
+    float: left;
+}
+.chuva {
+    float: right;
+    margin-right: 50px;
+}
+maquete {
+    margin-top: 5px;
+    margin: 0 auto;
+    width: 200px;
 }
