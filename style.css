@@ -11,13 +11,15 @@ video {
 }
 .house {
     margin-left: auto;
-    float: left;
+    width: 500px;
+    height: 350px;
+
 }
 .chuva {
     float: right;
     margin-right: 50px;
 }
-maquete {
+casa {
     margin-top: 5px;
     margin: 0 auto;
     width: 200px;
